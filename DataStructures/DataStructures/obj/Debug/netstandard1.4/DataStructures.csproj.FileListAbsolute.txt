@@ -1,0 +1,9 @@
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\bin\Debug\netstandard1.4\DataStructures.deps.json
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\bin\Debug\netstandard1.4\DataStructures.dll
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\bin\Debug\netstandard1.4\DataStructures.pdb
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.csprojAssemblyReference.cache
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.AssemblyInfoInputs.cache
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.AssemblyInfo.cs
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.dll
+C:\Projects\Learning\algorithms-data-structures-part-one\source\DataStructures\DataStructures\obj\Debug\netstandard1.4\DataStructures.pdb

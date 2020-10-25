@@ -1,0 +1,12 @@
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\ContactManager.deps.json
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\ContactManager.dll
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\ContactManager.pdb
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\DataStructures.dll
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\bin\Debug\netstandard2.0\DataStructures.pdb
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.csprojAssemblyReference.cache
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.AssemblyInfoInputs.cache
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.AssemblyInfo.cs
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.csproj.CoreCompileInputs.cache
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.csproj.CopyComplete
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.dll
+C:\Projects\Learning\algorithms-data-structures-part-one\source\ContactManager\ContactManager\obj\Debug\netstandard2.0\ContactManager.pdb
